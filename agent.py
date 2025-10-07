@@ -7,7 +7,7 @@ Minimal Gemini Computer Use + Playwright agent.
 - HITL: if model marked step as require_confirmation — ask in console.
 
 Usage:
-  python mini_browser_agent.py "Find Wikipedia article about Niagara Falls and open History section"
+  python agent.py "Find Wikipedia article about Niagara Falls and open History section"
 
 Requires GEMINI_API_KEY environment variable.
 """
