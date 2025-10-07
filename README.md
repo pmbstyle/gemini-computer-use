@@ -54,7 +54,7 @@ python agent.py "Find Wikipedia article about Niagara Falls and open History sec
 ## Requirements
 
 - Python 3.11+
-- Gemini API key ([Get API key](https://ai.google.dev/gemini-api/docs/computer-use))
+- Gemini API key ([Get API key]([https://ai.google.dev/gemini-api/docs/computer-use](https://aistudio.google.com/api-keys)))
 - Chrome/Chromium browser
 
 ## Safety
