@@ -2,6 +2,9 @@
 
 A minimal browser automation agent using Google's Gemini 2.5 Computer Use Preview model and Playwright for web browser control.
 
+[<img alt="image" src="https://github.com/user-attachments/assets/297ff11a-9784-49e2-8b25-d48175fe89d2" />](https://www.youtube.com/watch?v=zRjGeNP4tPs)
+
+
 ## Features
 
 - **Visual Browser Control**: Uses screenshots to "see" and interact with web pages
